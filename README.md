@@ -11,9 +11,9 @@ I plan to leverage my skills in cybersecurity, machine learning, data analysis, 
 
 
 ## Projects
-- Developed and Managed Secure Cybersecurity Lab Environment
+- <a href="https://github.com/Tolusokoyacyb/Developed-and-Managed-Secure-Cybersecurity-Lab-Environment">Developed and Managed Secure Cybersecurity Lab Environment</a>
 - NBA Player Salary Prediction Using Machine Learning
-- Flight Price Predictor Using Machine Learning
+- Flight Price Predictor Using Machine Learning      |
 
 
 ## Skills
@@ -21,20 +21,9 @@ I plan to leverage my skills in cybersecurity, machine learning, data analysis, 
 - NumPy - Pandas - Scikit-Learn - SQL - Data Analysis
 - KMeans Clustering - Data Visualization - Risk Management
 - Matplotlib - Seaborn - Information Security - ArcGIS - Mapping
+   
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-
-
-
-### Systems
+### Environments and Operating Systems
 <div>
     <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C9B?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
