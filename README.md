@@ -41,5 +41,7 @@ I plan to leverage my skills in cybersecurity, machine learning, data analysis, 
 
 ## Certifications
 
-TBA
+- Zero to Mastery Python Developer Certificate 
+- FEMA Digital Forensics Basics Certificate
+
 
