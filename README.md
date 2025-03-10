@@ -14,7 +14,7 @@ I plan to leverage my skills in cybersecurity, machine learning, data analysis, 
 - <a href="https://github.com/Tolusokoyacyb/Developed-and-Managed-Secure-Cybersecurity-Lab-Environment">Developed and Managed Secure Cybersecurity Lab Environment</a>
 - <a href="https://github.com/Tolusokoyacyb/Python-Malware-Prototype-for-Cybersecurity-Training">Python Malware Prototype for Cybersecurity Training
 - <a href="https://github.com/Tolusokoyacyb/NBA-Player-Salary-Prediction-Using-Machine-Learning">NBA Salary Prediction Using Machine Learning</a>
-- <a href="https://github.com/Tolusokoyacyb/Automated-Phishing-Email-Detection-Using-Machine-Learning">Automated Phishing Email Detection Using Machibe Learning</a>     
+- <a href="https://github.com/Tolusokoyacyb/Automated-Phishing-Email-Detection-Using-Machine-Learning">Automated Phishing Email Detection Using Machine Learning</a>     
 
 
 ## Skills
